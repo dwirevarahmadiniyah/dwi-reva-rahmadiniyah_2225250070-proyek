@@ -1,0 +1,5 @@
+Uwoo,80
+Lele,60
+Jojo,100
+Tyong,45
+Jeje,75
